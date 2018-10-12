@@ -1,0 +1,25 @@
+{
+  "name": "nwproject",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.0.3",
+    "react": "^16.5.2",
+    "react-country-region-selector": "^1.4.1",
+    "react-credit-card-input": "^1.0.15",
+    "react-credit-cards": "^0.7.0",
+    "react-dom": "^16.5.1",
+    "react-material-ui-form-validator": "^2.0.2",
+    "react-scripts": "1.1.5",
+    "react-select": "^2.1.0",
+    "react-select-country-list": "^1.0.7",
+    "react-validation": "^3.0.7",
+    "typeface-roboto": "0.0.54"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
